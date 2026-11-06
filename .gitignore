@@ -1,0 +1,8 @@
+/Installer/
+/*.zip
+/Prepare-Release.ps1
+/Release-post.md
+/Source/*/Variables/Variables.inc
+*.log
+Thumbs.db
+Desktop.ini
